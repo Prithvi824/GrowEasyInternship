@@ -11,8 +11,6 @@ In this I was assigned to create Express app, which had the following endpoints
 
 We were then instructed to Push the code to the GitHub repository and that was all.
 
-Each banner should include a title, description, CTA, image, and background/template.
-
 ## &nbsp; Creator
 
 Best Reagrds<br>Prithvi Srivastava
